@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="10114" started-at="2020-09-08T08:17:50 IST" finished-at="2020-09-08T08:18:00 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="10114" started-at="2020-09-08T08:17:50 IST" finished-at="2020-09-08T08:18:00 IST">
+      <class name="com.Tests_TDD.GetAllCapsules">
+        <test-method status="PASS" signature="getAllCapsules()[pri:0, instance:com.Tests_TDD.GetAllCapsules@1f554b06]" name="getAllCapsules" duration-ms="1287" started-at="2020-09-08T08:17:53 IST" finished-at="2020-09-08T08:17:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllCapsules -->
+      </class> <!-- com.Tests_TDD.GetAllCapsules -->
+      <class name="com.Tests_BDD.QueryCapsules">
+        <test-method status="PASS" signature="querycapsules_post()[pri:0, instance:com.Tests_BDD.QueryCapsules@614ddd49]" name="querycapsules_post" duration-ms="888" started-at="2020-09-08T08:17:52 IST" finished-at="2020-09-08T08:17:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- querycapsules_post -->
+      </class> <!-- com.Tests_BDD.QueryCapsules -->
+      <class name="com.Tests_BDD.CreateCapsule">
+        <test-method status="PASS" signature="querycapsules_post()[pri:0, instance:com.Tests_BDD.CreateCapsule@1c3a4799]" name="querycapsules_post" duration-ms="1461" started-at="2020-09-08T08:17:58 IST" finished-at="2020-09-08T08:18:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- querycapsules_post -->
+      </class> <!-- com.Tests_BDD.CreateCapsule -->
+      <class name="com.Tests_TDD.CreateLaunchpad">
+        <test-method status="PASS" signature="createlanunpad_post()[pri:0, instance:com.Tests_TDD.CreateLaunchpad@76707e36]" name="createlanunpad_post" duration-ms="2472" started-at="2020-09-08T08:17:50 IST" finished-at="2020-09-08T08:17:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createlanunpad_post -->
+      </class> <!-- com.Tests_TDD.CreateLaunchpad -->
+      <class name="com.Tests_TDD.All_Rockets_Tests">
+        <test-method status="PASS" signature="getAllRockets()[pri:0, instance:com.Tests_TDD.All_Rockets_Tests@694e1548]" name="getAllRockets" duration-ms="1756" started-at="2020-09-08T08:17:54 IST" finished-at="2020-09-08T08:17:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllRockets -->
+        <test-method status="PASS" signature="getOneRokcet()[pri:0, instance:com.Tests_TDD.All_Rockets_Tests@694e1548]" name="getOneRokcet" duration-ms="1254" started-at="2020-09-08T08:17:56 IST" finished-at="2020-09-08T08:17:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getOneRokcet -->
+        <test-method status="PASS" signature="postQueryrocket()[pri:0, instance:com.Tests_TDD.All_Rockets_Tests@694e1548]" name="postQueryrocket" duration-ms="955" started-at="2020-09-08T08:17:57 IST" finished-at="2020-09-08T08:17:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postQueryrocket -->
+      </class> <!-- com.Tests_TDD.All_Rockets_Tests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
